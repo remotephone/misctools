@@ -1,4 +1,5 @@
 #!/bin/bash
+# I actually wrote this one. It should work?
 
 # get it ready
 apt-get update && apt-get upgrade
